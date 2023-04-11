@@ -1,5 +1,3 @@
-> 
-
 # Hello, I´m Carlos A Mora A,
 I work in the Telecommunications Sector in the LAN/WAN Network Support line.
 I am an IT network technologist living in Colombia, I am currently preparing to be a professional devnet.
@@ -28,10 +26,8 @@ I am an IT network technologist living in Colombia, I am currently preparing to 
 
 ## Estos son mis alias más usados
 
-```jsx
-rm -r archivos
-```
-
+cual es el comando 
+g
 
 ## Lenguajes que requiero aprender 
 
